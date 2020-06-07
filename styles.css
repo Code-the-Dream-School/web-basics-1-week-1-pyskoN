@@ -6,6 +6,20 @@ padding: 0;
 #target-div {
   min-height: 100vh;
   width: 100%;
-  background: #ddd;
+  background:rgb(192, 184, 162);
   padding:1em;
+}
+
+h2 {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-style: italic;
+  color: darkslategrey;
+  background: floralwhite;
+}
+
+li {
+  margin-left: 2cm;
+  font-style: italic;
 }
